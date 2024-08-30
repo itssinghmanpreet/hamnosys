@@ -1,0 +1,699 @@
+[
+  {
+    "english": "Are you Sick?",
+    "punjabi": "kI qusI bImwr ho?",
+    "hamnosys": "",
+    "filename": "are-you-sick",
+    "unicode": "ਕੀ ਤੁਸੀਂ ਬੀਮਾਰ ਹੋ ?"
+  },
+  {
+    "english": "Are you angry?",
+    "punjabi": "qusIN gu'sw ho?",
+    "hamnosys": "",
+    "filename": "are-you-angry",
+    "unicode": "ਕੀ ਤੁਸੀਂ ਗੁੱਸਾ ਹੋਂ ?  "
+  },
+  {
+    "english": "Are you busy?",
+    "punjabi": "kI qusIN ivAsq ho?",
+    "hamnosys": "",
+    "filename": "are-you-busy"
+  },
+  {
+    "english": "Are you hungry?",
+    "punjabi": "kI quhwnUM Bu'K l'gI hY?",
+    "hamnosys": "",
+    "filename": "are-you-hungry",
+    "unicode": "ਕੀ ਤੁਹਾਨੂੰ ਭੱਖ ਲੱਗੀ ਹੈ ? "
+  },
+  {
+    "english": "Are you out of your mind?",
+    "punjabi": "qyrw idmwg TIk hY",
+    "hamnosys": " ",
+    "filename": "are-you-out-of-your-mind"
+  },
+  {
+    "english": "Back, go to your work.",
+    "punjabi": "Awpxy kMm qy vwps jwE",
+    "hamnosys": "",
+    "filename": "back-go-to-your-work",
+    "unicode": "ਆਪਣੇ ਕੰਮ ਤੇ ਵਾਪਸ ਜਾਓ "
+  },
+  {
+    "english": "Be Careful.",
+    "punjabi": "iDAwn r'Ko",
+    "hamnosys": "",
+    "filename": "be-careful"
+  },
+  {
+    "english": "Can i borrow your pen?",
+    "punjabi": "kI mYN quhwfI klm auDwr lY s'kdw hW?",
+    "hamnosys": "",
+    "filename": "can-i-borrow-your-pen",
+    "unicode": "ਕੀ ਮੈਂ ਤੁਹਾਡੀ ਕਲਮ ਉਧਾਰ ਲੈ ਸਕਦਾ ਹਾਂ ?"
+  },
+  {
+    "english": "Can i use your phone?",
+    "punjabi": "kI mYN quhwfw &on vrq skdw hw?",
+    "hamnosys": "",
+    "filename": "can-i-use-your-phone",
+    "unicode": "ਕੀ ਮੈਂ ਤੁਹਾਡਾ ਫ਼ੋਨ ਵਰਤ ਸਕਦਾ ਹਾਂ ?"
+  },
+  {
+    "english": "Can we meet Tomorrow?",
+    "punjabi": "kI AsIN k'l nUM iml skdy hW?",
+    "hamnosys": "",
+    "filename": "can-we-meet-tomorrow",
+    "unicode": "ਕੀ ਅਸੀਂ ਕੱਲ ਨੂੰ ਮਿਲ਼ ਸਕਦੇ ਹਾਂ ?"
+  },
+  {
+    "english": "Can you hold, please?",
+    "punjabi": "ikRpw krky, kI qusIN PV skdy ho?",
+    "hamnosys": " ",
+    "filename": "can-you-hold-please"
+  },
+  {
+    "english": "Close the door.",
+    "punjabi": "drvwzw bMd kr idE",
+    "hamnosys": "   ",
+    "filename": "close-the-door"
+  },
+  {
+    "english": "Come here.",
+    "punjabi": "AYQy AwE",
+    "hamnosys": "",
+    "filename": "come-here"
+  },
+  {
+    "english": "Do you have money?",
+    "punjabi": "kI quhwfy kol pYsy hn?",
+    "hamnosys": " ",
+    "filename": "do-you-have-money"
+  },
+  {
+    "english": "Do you want something to drink?",
+    "punjabi": "kI qusIN kuJ pIxw cwhMudy ho?",
+    "hamnosys": "",
+    "filename": "do-you-want-something-to-drink"
+  },
+  {
+    "english": "Do you want tea or coffee?",
+    "punjabi": "kI quhwnUM cwh jW kwPI cwhIdI hY?",
+    "hamnosys": "",
+    "filename": "do-you-want-tea-or-coffee"
+  },
+  {
+    "english": "Do you watch tv?",
+    "punjabi": "kI qusIN tI vI vyKdy ho?",
+    "hamnosys": "   ",
+    "filename": "do-you-watch-tv"
+  },
+  {
+    "english": "Don't worry.",
+    "punjabi": "icMqw nw kro",
+    "hamnosys": "",
+    "filename": "dont-worry"
+  },
+  {
+    "english": "Flower is beautiful.",
+    "punjabi": "Pu'l bhuq sMudr hY",
+    "hamnosys": "",
+    "filename": "flower-is-beautiful"
+  },
+  {
+    "english": "Good Afternoon.",
+    "punjabi": "SuB dupihr",
+    "hamnosys": "",
+    "filename": "good-afternoon"
+  },
+  {
+    "english": "Good Bye.",
+    "punjabi": "Alivdw",
+    "hamnosys": "",
+    "filename": "good-bye"
+  },
+  {
+    "english": "Good Evening.",
+    "punjabi": "SuB Swm",
+    "hamnosys": "",
+    "filename": "good-evening"
+  },
+  {
+    "english": "Good Morning.",
+    "punjabi": "SuB svyr",
+    "hamnosys": "",
+    "filename": "good-morning"
+  },
+  {
+    "english": "Good Night.",
+    "punjabi": "SuB rwq",
+    "hamnosys": "",
+    "filename": "good-night"
+  },
+  {
+    "english": "Good Question.",
+    "punjabi": "vDIAw svwl",
+    "hamnosys": "",
+    "filename": "good-question"
+  },
+  {
+    "english": "Had your Lunch.",
+    "punjabi": "quhwfw dupihr dw Kwxw sI?",
+    "hamnosys": "",
+    "filename": "had-your-lunch"
+  },
+  {
+    "english": "Happy Journey.",
+    "punjabi": "KuShwl Xwqrw",
+    "hamnosys": "",
+    "filename": "happy-journey"
+  },
+  {
+    "english": "Have a seat, please.",
+    "punjabi": "ikRpw krky ie'k sIt lE",
+    "hamnosys": "",
+    "filename": "have-a-seat-please"
+  },
+  {
+    "english": "Hearing and deaf.",
+    "punjabi": "suxnw Aqy boLNw",
+    "hamnosys": "",
+    "filename": "hearing-and-deaf"
+  },
+  {
+    "english": "How are you?",
+    "punjabi": "qusIN ikvyN ho",
+    "hamnosys": " ",
+    "filename": "how-are-you"
+  },
+  {
+    "english": "I Forget.",
+    "punjabi": "mYN Bu'l igAw",
+    "hamnosys": "",
+    "filename": "i-forget"
+  },
+  {
+    "english": "I am Clerk.",
+    "punjabi": "mYN klrk hW",
+    "hamnosys": "",
+    "filename": "i-am-clerk"
+  },
+  {
+    "english": "I am Fine.",
+    "punjabi": "mYN TIk hW",
+    "hamnosys": "",
+    "filename": "i-am-fine"
+  },
+  {
+    "english": "I am Hungry.",
+    "punjabi": "mYN Bu'KW hW",
+    "hamnosys": "",
+    "filename": "i-am-hungry"
+  },
+  {
+    "english": "I am Single.",
+    "punjabi": "mYN iek'lw hW",
+    "hamnosys": "",
+    "filename": "i-am-single"
+  },
+  {
+    "english": "I am Sorry.",
+    "punjabi": "mYN SrimMdw hW",
+    "hamnosys": "",
+    "filename": "i-am-sorry"
+  },
+  {
+    "english": "I am Thinking.",
+    "punjabi": "mYN soc irhw hW",
+    "hamnosys": "",
+    "filename": "i-am-thinking"
+  },
+  {
+    "english": "I am not quite satisfied with this work.",
+    "punjabi": "mYN ies kMm qoN iblkul sMquSt nhIN hW",
+    "hamnosys": "",
+    "filename": "i-am-not-quite-satisfied-with-this-work"
+  },
+  {
+    "english": "I am not sure that is a good idea.",
+    "punjabi": "mYnUM XkIn nhIN hY ik ieh iek cMgw ivcwr hY",
+    "hamnosys": "",
+    "filename": "i-am-not-sure-that-is-a-good-idea"
+  },
+  {
+    "english": "I am sad.",
+    "punjabi": "mYN audws hW",
+    "hamnosys": "",
+    "filename": "i-am-sad"
+  },
+  {
+    "english": "I am studying.",
+    "punjabi": "mYN pVHweI kr irhw hW",
+    "hamnosys": "",
+    "filename": "i-am-studying"
+  },
+  {
+    "english": "I don't understand anything.",
+    "punjabi": "mYnUM kuJ smJ nhIN Aw irhw",
+    "hamnosys": "",
+    "filename": "i-dont-understand-anything"
+  },
+  {
+    "english": "I go to a theatre.",
+    "punjabi": "mYN ie'k QIeytr jWdw hW",
+    "hamnosys": "",
+    "filename": "i-go-to-a-theatre"
+  },
+  {
+    "english": "I go to school.",
+    "punjabi": "mYN skUl jWdw hW",
+    "hamnosys": "",
+    "filename": "i-go-to-school"
+  },
+  {
+    "english": "I had to say something but i forget.",
+    "punjabi": "mY kuJ kihxw sI pr mYN Bu'l igAw",
+    "hamnosys": " ",
+    "filename": "i-had-to-say-something-but-i-forget"
+  },
+  {
+    "english": "I hate the song.",
+    "punjabi": "mYnMU ieh gwxw nhIN psMd",
+    "hamnosys": " ",
+    "filename": "i-hate-the-song"
+  },
+  {
+    "english": "I have headache.",
+    "punjabi": "mYnUM isr drd hY",
+    "hamnosys": "",
+    "filename": "i-have-headache"
+  },
+  {
+    "english": "I like child.",
+    "punjabi": "mYnMU b~cy psMd hY",
+    "hamnosys": "",
+    "filename": "i-like-child"
+  },
+  {
+    "english": "I like pink colour.",
+    "punjabi": "mYnUM gulwbI rMg psMd hY",
+    "hamnosys": "",
+    "filename": "i-like-pink-colour"
+  },
+  {
+    "english": "I love to shop.",
+    "punjabi": "mYnUM KrIddwrI krnw psMd hY",
+    "hamnosys": "",
+    "filename": "i-love-to-shop"
+  },
+  {
+    "english": "I request You.",
+    "punjabi": "mYN quhwnUM bynqI krdw hW",
+    "hamnosys": "",
+    "filename": "i-request-you"
+  },
+  {
+    "english": "I tried.",
+    "punjabi": "mYN Q'ikAw hW",
+    "hamnosys": "",
+    "filename": "i-tried"
+  },
+  {
+    "english": "Keep Quite.",
+    "punjabi": "cu'p rihxw",
+    "hamnosys": "",
+    "filename": "keep-quite"
+  },
+  {
+    "english": "Let's go for lunch.",
+    "punjabi": "AwE dupihr dy Kwxy qy c'lIey",
+    "hamnosys": "",
+    "filename": "lets-go-for-lunch"
+  },
+  {
+    "english": "May I have your name?",
+    "punjabi": "ikrpw krky, mY quhwfw nwm jwx skdw hW?",
+    "hamnosys": "",
+    "filename": "may-i-have-your-name"
+  },
+  {
+    "english": "May I go to drink water?",
+    "punjabi": "kI mYN pwxI pIx jw skdw hW",
+    "hamnosys": "",
+    "filename": "may-i-go-to-drink-water"
+  },
+  {
+    "english": "May i take your leave?",
+    "punjabi": "kI mYN quhwfI Cu'tI lY skdw hw?",
+    "hamnosys": "",
+    "filename": "may-i-take-your-leave"
+  },
+  {
+    "english": "Move your car.",
+    "punjabi": "kwr nMU A'gy vDwau",
+    "hamnosys": "",
+    "filename": "move-your-car"
+  },
+  {
+    "english": "My Brother is a Boxer.",
+    "punjabi": "myrw Brw m'ukybwz hY",
+    "hamnosys": " ",
+    "filename": "my-brother-is-a-boxer"
+  },
+  {
+    "english": "My Father is a doctor.",
+    "punjabi": "myrw ipqw ie'k fwktr hY",
+    "hamnosys": "",
+    "filename": "my-father-is-a-doctor"
+  },
+  {
+    "english": "My Mother is a housemaker.",
+    "punjabi": "myrI mW ie'k Gr culwaux vwlI hY",
+    "hamnosys": "",
+    "filename": "my-mother-is-a-housemaker"
+  },
+  {
+    "english": "Nice to meet you.",
+    "punjabi": "quhwnMU imlky A'Cw l'igAw",
+    "hamnosys": " ",
+    "filename": "nice-you-meet-you"
+  },
+  {
+    "english": "No Smoking please.",
+    "punjabi": "ikrpw krky qMbwkUnoSI nw kro",
+    "hamnosys": "",
+    "filename": "no-smoking-please"
+  },
+  {
+    "english": "No, Thanks.",
+    "punjabi": "nhIN DMnvwd",
+    "hamnosys": "",
+    "filename": "nothanks"
+  },
+  {
+    "english": "Please Wait for Some time.",
+    "punjabi": "ikrpw krky kuJ smyN leI aufIk kro",
+    "hamnosys": "    ",
+    "filename": "please-wait-for-sometime"
+  },
+  {
+    "english": "Please call me later.",
+    "punjabi": "ikrpw krky mYnMU bAwd iv'c kwl kro",
+    "hamnosys": "",
+    "filename": "please-call-me-later"
+  },
+  {
+    "english": "Please clean the room.",
+    "punjabi": "ikrpw krky kmrw sw& kro",
+    "hamnosys": "",
+    "filename": "please-clean-the-room"
+  },
+  {
+    "english": "Please give me your pen.",
+    "punjabi": "ikrpw krky mYnMU AwpxI klm idE",
+    "hamnosys": ", ",
+    "filename": "please-give-me-your-pen"
+  },
+  {
+    "english": "Rocking baby child.",
+    "punjabi": "b~cy nMU iKLw irhw hw",
+    "hamnosys": "",
+    "filename": "rocking-baby-child"
+  },
+  {
+    "english": "Send me report.",
+    "punjabi": "mYnUM irport Byjo",
+    "hamnosys": "",
+    "filename": "send-me-report"
+  },
+  {
+    "english": "Send me the picture.",
+    "punjabi": "mYnUM qsvIr Byjo",
+    "hamnosys": "  ",
+    "filename": "send-me-the-picture"
+  },
+  {
+    "english": "Shall i help you?",
+    "punjabi": "kI mYN quhwfI mdd krWgw?",
+    "hamnosys": " ",
+    "filename": "shall-i-help-you"
+  },
+  {
+    "english": "Shall we go together tomorrow?",
+    "punjabi": "kI AsIN k'l nMU iek'Ty c'lIey?",
+    "hamnosys": "",
+    "filename": "shall-we-go-together-tomorrow"
+  },
+  {
+    "english": "Sit Down.",
+    "punjabi": "bYT jwE",
+    "hamnosys": "",
+    "filename": "sit-down"
+  },
+  {
+    "english": "Stand up.",
+    "punjabi": "KVy ho jwE",
+    "hamnosys": "",
+    "filename": "stand-up"
+  },
+  {
+    "english": "Take Care.",
+    "punjabi": "Awpxw iKAwl r'Kxw",
+    "hamnosys": "",
+    "filename": "take-care"
+  },
+  {
+    "english": "Tell me when you' re available.",
+    "punjabi": "mYnMU d'so jdoN qusIN auplbD hovo",
+    "hamnosys": "",
+    "filename": "tell-me-when-you-re-available"
+  },
+  {
+    "english": "That is good.",
+    "punjabi": "bhuq vDIAw",
+    "hamnosys": "",
+    "filename": "that-is-good"
+  },
+  {
+    "english": "There are four people in my family.",
+    "punjabi": "myry pirvwr iv'c cwr jwxy hn",
+    "hamnosys": "",
+    "filename": "there-are-four-people-in-my-family"
+  },
+  {
+    "english": "There was traffic jam.",
+    "punjabi": "auQy tRYiPk jwm sI",
+    "hamnosys": "",
+    "filename": "there-was-traffic-jam"
+  },
+  {
+    "english": "Very Nice.",
+    "punjabi": "bhuq A'Cw",
+    "hamnosys": "",
+    "filename": "very-nice"
+  },
+  {
+    "english": "Wait, i am thinking.",
+    "punjabi": "aufIk kro mYN soc irhw hW",
+    "hamnosys": "",
+    "filename": "wait-i-am-thinking"
+  },
+  {
+    "english": "What Cost.",
+    "punjabi": "kI kImq",
+    "hamnosys": "",
+    "filename": "what-cost"
+  },
+  {
+    "english": "What are you doing?",
+    "punjabi": "qusIN kI kr rhy ho",
+    "hamnosys": "",
+    "filename": "what-are-you-doing"
+  },
+  {
+    "english": "What is the problem?",
+    "punjabi": "sm'isAw kI hY",
+    "hamnosys": "",
+    "filename": "what-is-the-problem"
+  },
+  {
+    "english": "Why are you told",
+    "punjabi": "quhwnMU ikauN d'isAw jWdw",
+    "hamnosys": "",
+    "filename": "please-wait-for-sometime"
+  },
+  {
+    "english": "What is today's date.",
+    "punjabi": "A'j dI qrIk kI hY",
+    "hamnosys": "  ",
+    "filename": "what-is-todays-date"
+  },
+  {
+    "english": "What is your age?",
+    "punjabi": "quhwfI aumr ikMnI hY",
+    "hamnosys": "",
+    "filename": "what-is-your-age"
+  },
+  {
+    "english": "What is your father doing?",
+    "punjabi": "quhwfw ipqw kI kMm krdy hn",
+    "hamnosys": "  ",
+    "filename": "what-is-your-father-doing"
+  },
+  {
+    "english": "What is your mobile number?",
+    "punjabi": "quhwfw mobweIl nMbr kI hY?",
+    "hamnosys": "",
+    "filename": "what-is-your-mobile-number"
+  },
+  {
+    "english": "What time is it?",
+    "punjabi": "smW iknW hoieAw?",
+    "hamnosys": "",
+    "filename": "what-time-is-it"
+  },
+  {
+    "english": "When u recently driving.",
+    "punjabi": "qusIN hwl hI iv'c kdo g'fI clweI",
+    "hamnosys": "",
+    "filename": "when-u-recently-driving"
+  },
+  {
+    "english": "Where do you stay?",
+    "punjabi": "qusIN ik'Qy rhogy?",
+    "hamnosys": " ",
+    "filename": "where-do-you-stay"
+  },
+  {
+    "english": "Where is Bathroom?",
+    "punjabi": "bwQrUm ik'Qy hY",
+    "hamnosys": "",
+    "filename": "where-is-bathroom"
+  },
+  {
+    "english": "Where is hospital?",
+    "punjabi": "hspqwl ik'Qy hY",
+    "hamnosys": "",
+    "filename": "where-is-hospital"
+  },
+  {
+    "english": "Where is police station?",
+    "punjabi": "Qwxw ik'Qy hY",
+    "hamnosys": "   ",
+    "filename": "where-is-police-station"
+  },
+  {
+    "english": "Who are you?",
+    "punjabi": "qMU kOx hY?",
+    "hamnosys": "",
+    "filename": "who-are-you"
+  },
+  {
+    "english": "Would you lend me a pencil, please?",
+    "punjabi": "ikRpw krky, kI qusIN mYnUM pYnisl dy skdy ho?",
+    "hamnosys": "",
+    "filename": "would-you-lend-me-a-pencil-please"
+  },
+  {
+    "english": "Would you mind if i smoke here.",
+    "punjabi": "kI qusIN ieqrwz krogy jy mYN ieQy qmwkUnoSI krdw hw?",
+    "hamnosys": "",
+    "filename": "would-you-mind-if-i-smoke-here"
+  },
+  {
+    "english": "Would you mind moving your car, please?",
+    "punjabi": "ikRpw krky, kI qusIN AwpxI kwr nMU A'gy lY ky jwEgy?",
+    "hamnosys": "",
+    "filename": "would-you-mind-moving-your-car-please"
+  },
+  {
+    "english": "You are Right.",
+    "punjabi": "qusIN TIk kih rhy ho",
+    "hamnosys": "",
+    "filename": "you-are-right"
+  },
+  {
+    "english": "You have car.",
+    "punjabi": "quhwfy kol kwr hY",
+    "hamnosys": "",
+    "filename": "you-have-car"
+  },
+  {
+    "english": "You have the Authority.",
+    "punjabi": "quhwfy kol AiDkwr hY",
+    "hamnosys": "",
+    "filename": "you-have-the-authority"
+  },
+  {
+    "english": "Your work is not good.",
+    "punjabi": "quhwfw kMm cMgw nhIN hY",
+    "hamnosys": "",
+    "filename": "your-work-is-not-good"
+  },
+  {
+    "english": "What is your name",
+    "punjabi": "quhwfw nwm kI hY",
+    "hamnosys": " ",
+    "filename": "what-is-your-name"
+  },
+  {
+    "english": "One",
+    "punjabi": "1    ie'k",
+    "hamnosys": " ",
+    "filename": "1"
+  },
+  {
+    "english": "Two",
+    "punjabi": "2    do",
+    "hamnosys": " ",
+    "filename": "2"
+  },
+  {
+    "english": "Three",
+    "punjabi": "3    iqMn",
+    "hamnosys": "  ",
+    "filename": "3"
+  },
+  {
+    "english": "Four",
+    "punjabi": "4    cwr",
+    "hamnosys": " ",
+    "filename": "4"
+  },
+  {
+    "english": "Five",
+    "punjabi": "5    pMj",
+    "hamnosys": "",
+    "filename": "5"
+  },
+  {
+    "english": "Six",
+    "punjabi": "6    Cy",
+    "hamnosys": " ",
+    "filename": "6"
+  },
+  {
+    "english": "Seven",
+    "punjabi": "7    s'q",
+    "hamnosys": " ",
+    "filename": "7"
+  },
+  {
+    "english": "Eight",
+    "punjabi": "8    A'T",
+    "hamnosys": "  ",
+    "filename": "8"
+  },
+  {
+    "english": "Nine",
+    "punjabi": "9    nON",
+    "hamnosys": " ",
+    "filename": "9"
+  },
+  {
+    "english": "Ten",
+    "punjabi": "10   d's",
+    "hamnosys": "",
+    "filename": "10"
+  }
+]
