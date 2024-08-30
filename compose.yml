@@ -1,0 +1,9 @@
+services:
+  frankenphp:
+    image: dunglas/frankenphp
+    ports:
+      - 3000:80
+      - 4000:443
+      - 4000:443/udp
+    volumes:
+      - ./app:/app/public

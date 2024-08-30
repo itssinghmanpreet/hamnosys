@@ -1,0 +1,20 @@
+<sigml>
+ <hns_sign gloss="mug" > 
+            <hamnosys_nonmanual></hamnosys_nonmanual>
+            <hamnosys_manual><hamfinger2/><hamthumbacrossmod/>
+             <hamextfingeru/><hampalmd/>
+             <hamshoulders/></hamnosys_manual>
+             </hns_sign>
+ <hns_sign gloss="mug" >
+     <hamnosys_nonmanual></hamnosys_nonmanual>
+     <hamnosys_manual><hamfinger23spread/>
+      <hamthumbacrossmod/><hamextfingeru/>
+      <hampalmd/><hamshoulders/>
+       </hamnosys_manual></hns_sign>
+	<hns_sign gloss="mug" > <hamnosys_nonmanual>
+      </hamnosys_nonmanual><hamnosys_manual>
+           <hamfinger2345/><hamthumbacrossmod/>
+           <hamextfingeru/><hampalmd/><hamshoulders/>
+         </hamnosys_manual></hns_sign>
+
+</sigml>
